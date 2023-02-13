@@ -17,7 +17,7 @@ json-server --watch nombre_archivo.json
 
 ## Navegador
 ~~~~
-localhost:3000
+localhost:3000/profile
 ~~~~
 
 
